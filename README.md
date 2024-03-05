@@ -16,3 +16,4 @@ Its not completely functional site but i tried to add as many features as i coul
 <br>Html , css for frontend,layout and design
 <br>php for database and backend connection
 <br>tcpdf for dowloading pdf after confirmations
+<br>Used javascript for validations
